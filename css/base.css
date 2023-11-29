@@ -1,0 +1,16 @@
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
+.w_all{
+  width: 100%;
+}
+.h_all{
+  height: 100%;
+}
+.wh_all{
+  width: 100%;
+  height: 100%;
+}
